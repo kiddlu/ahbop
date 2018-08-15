@@ -20,6 +20,8 @@
 #include <stdint.h>
 #include <stddef.h>
 
+#define char16_t uint16_t
+
 #ifdef __cplusplus
 extern "C" {
 #endif
